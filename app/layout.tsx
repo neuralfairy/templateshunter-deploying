@@ -14,6 +14,9 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Templateshunter Solutions - B2B Lead Generation Platform",
     description: "Generate high-quality, targeted B2B leads with advanced AI-powered tools.",
+    icons: {
+      icon: "/favicon.png",
+    },
     url: "https://templateshunter.com",
     siteName: "Templateshunter Solutions",
     type: "website",
